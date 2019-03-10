@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<France>
+		<code>F</code>
+		<capital>Paris</capital>
+		<province>Ile-de-France</province>
+		<area>547030</area>
+		<population>64933400</population>
+		<cities>
+			<Paris>
+				<country>F</country>
+				<province>Ile-de-France</province>
+				<pop-year> 1990="2152423" 1999="215246" 2006="2201578"
+				2011="2249975">
+				</pop-year>
+			</Paris>
+			<Bordeaux>
+				<country>F</country>
+				<province>Aquitaine</province>
+				<pop-year> 1990="210336" 1999="215363" 2006="235878"
+				2011="239399"
+				</pop-year>
+			</Bordeaux>
+		</cities>
+		<provinces>
+			<Limousin>
+				<population>741072</population>
+				<area>16942</area>
+				<capital>Limoges</capital>
+				<capprov>Limousin</capprov>
+			</Limousin>
+			<Alsace>
+				<population>1852325</population>
+				<area>8280</area>
+				<capital>Strasbourg</capital>
+				<capprov>Alsace</capprov>
+			</Alsace>
+		</provinces>
+	</France>

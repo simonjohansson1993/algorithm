@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<Sweden>
+		<code>S</code>
+		<capital>Stockholm</capital>
+		<province>Stockholm</province>
+		<area>449964</area>
+		<population>9555893</population>
+		<cities>
+			<Stockholm>
+				<country>S</country>
+				<province>Stockholm</province>
+				<popyear>1995="711119" 2002="758148" 2009="829417"
+				2012="881235"
+				</popyear>
+			</Stockholm>
+			<Göteborg>
+				<country>S</country>
+				<province>Västra-Götaland</province>
+				<pop-year>1987="429339" 1995="449189" 2002="47421" 
+				2009="507330" 2012="526089"
+				</pop-year>
+			</Göteborg>
+		</cities>
+		<provinces>
+			<Stockholm>
+				<population>2127006</population>
+				<area>6519</area>
+				<capital>Stockholm</capital>
+				<capprov>Stockholm</capprov>
+			</Stockholm>
+			<Västra-Götaland>
+				<population>1600447</population>
+				<area>23948</area>
+				<capital>Göteborg</capital>
+				<capprov>VästraGötaland</capprov>
+			</Västra-Götaland>
+		</provinces>
+	</Sweden>
+	
+   

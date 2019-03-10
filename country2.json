@@ -1,0 +1,60 @@
+{
+  
+      "Sweden": {
+        
+      "code": "S",
+      "capital": "Stockholm",
+      "province": "Stockholm",
+      "area": "449964",
+      "population": "9555893",
+      
+            "cities": [
+        {
+          "Stockholm":{
+          "country": "S",
+          "province": "Stockholm",
+            "population at year":
+          {
+            "1995": "711119",
+            "2002": "758148",
+            "2009": "829417",
+            "2012": "881235"
+          }
+        },
+      
+            "Göteborg":{
+              "country": "S",
+              "province": "Västra Götaland",
+                "population at year":
+              {
+            "1987": "429339",
+            "1995": "449189",
+            "2002": "474921",
+            "2009": "507330",
+            "2012": "526089"
+              }
+            }
+
+        }
+    ],
+            "provinces":[
+        {
+            "Stockholm":{
+            "population": "2127006",
+            "area": "6519",
+            "capital": "Stockholm",
+            "capprov": "Stockholm"
+            
+        },
+
+            "Västra Götaland":{
+            "population": "1600447",
+            "area": "23948",
+            "capital": "Göteborg",
+            "capprov": "Västra Götaland"
+            }
+      }
+    ]
+    }
+}
+      

@@ -1,0 +1,61 @@
+{
+  
+      "France": {
+        
+      "code": "F",
+      "capital": "Paris",
+      "province": "Ile-de-France",
+      "area": "547030",
+      "population": "64933400",
+            "cities": [
+        {
+          "Paris":{
+          "country": "F",
+          "province": "Ile-de-France",
+            "population at year":
+          {
+            "1990": "2152423",
+            "1999": "2125246",
+            "2006": "2201578",
+            "2011": "2249975"
+          }
+        },
+      
+            "Bordeaux":{
+              "country": "F",
+              "province": "Aquitaine",
+                "population at year":
+              {
+                "1990": "210336",
+                "1999": "215363",
+                "2006": "235878",
+                "2011": "239399"
+              }
+            }
+
+        }
+    ],
+            "provinces":[
+        {
+            "Limousin":{
+            "population": "741072",
+            "area": "16942",
+            "capital": "Limoges",
+            "capprov": "Limousin"
+            
+        },
+
+            "Alsace":{
+            "population": "1852325",
+            "area": "8280",
+            "capital": "Strasbourg",
+            "capprov": "Alsace"
+            }
+      }
+    ]
+    }
+}
+      
+
+
+       
